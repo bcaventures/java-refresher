@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.concurrency.threads/com.concurrency.threads.iml" filepath="$PROJECT_DIR$/com.concurrency.threads/com.concurrency.threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads_intellij.iml" filepath="$PROJECT_DIR$/threads_intellij.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5bc7a6b-1918-4959-b576-7ac9cb1c5fb7" name="Default Changelist" comment="">
+    <list default="true" id="62921706-4d7c-4f06-a33a-0d918c4a3f63" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../collections_intellij/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../collections_intellij/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../collections_intellij/com.list.arraylist/src/Name.java" afterDir="false" />
@@ -11,38 +11,33 @@
       <change afterPath="$PROJECT_DIR$/../collections_intellij/src/Seat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../collections_intellij/src/Theatre.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../collections_intellij/src/Theatres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../intellij_files/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../intellij_files/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../intellij_files/com.fileio.filewriter/com.fileio.filewriter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../intellij_files/com.fileio.filewriter_new/com.fileio.filereader.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../intellij_files/com.fileio.filewriter_new/src/FileReaderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../intellij_files/src/FileWriterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../intellij_files/src/MyFileWriter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lambda_intellij/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lambda_intellij/com.lambda.employee/com.lambda.employee.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/EmployeeSorter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/TestUserKey1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/UserKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/UserKeyMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../threads_intellij/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../threads_intellij/com.concurrency.threads/com.concurrency.threads.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../threads_intellij/src/MainThread.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../threads_intellij/src/SubThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaProjects/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arraylist/arraylist.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../collections_intellij/com.list.arraylist/com.list.arraylist.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda/lambda.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambda/src/LambdaFunctions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedlist/linkedlist.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkedlist/src/LinkedListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map/map.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/map/src/MapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collections/ArrayListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linkedlist/LinkedListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/arraylist/arraylist.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/collections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../collections_intellij/com.list.arraylist/com.list.arraylist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/lambda/lambda.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/lambda/src/LambdaFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/linkedlist/linkedlist.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/linkedlist/src/LinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/map/map.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/map/src/MapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/out/production/collections/ArrayListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/out/production/linkedlist/LinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/src/ArrayListTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../customer/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../customer/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../customer/.idea/workspace.xml" beforeDir="false" />
@@ -64,10 +59,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2137" />
-    <option name="y" value="35" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="2060" />
+    <option name="y" value="44" />
+    <option name="width" value="1612" />
+    <option name="height" value="971" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -75,23 +70,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="collections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lambda_intellij" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -114,22 +99,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d5bc7a6b-1918-4959-b576-7ac9cb1c5fb7" name="Default Changelist" comment="" />
-      <created>1553104702548</created>
+      <changelist id="62921706-4d7c-4f06-a33a-0d918c4a3f63" name="Default Changelist" comment="" />
+      <created>1555519029034</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553104702548</updated>
+      <updated>1555519029034</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2137" y="35" width="1400" height="1000" extended-state="0" />
+    <frame x="2060" y="44" width="1612" height="971" extended-state="0" />
     <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -137,15 +125,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="masterDetails">
