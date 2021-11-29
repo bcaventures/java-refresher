@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62921706-4d7c-4f06-a33a-0d918c4a3f63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../collections_intellij/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collections_intellij/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collections_intellij/com.list.arraylist/src/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collections_intellij/com.list.arraylist/src/NamesList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collections_intellij/com.list.linkelist/com.list.linkelist.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collections_intellij/com.set.hashset/com.set.hashset.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collections_intellij/src/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collections_intellij/src/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../collections_intellij/src/Theatres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lambda_intellij/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lambda_intellij/com.lambda.employee/com.lambda.employee.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/TestUserKey1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/UserKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lambda_intellij/src/UserKeyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads_intellij/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads_intellij/com.concurrency.threads/com.concurrency.threads.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads_intellij/src/MainThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../threads_intellij/src/SubThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaProjects/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collections/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/arraylist/arraylist.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/collections.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../collections_intellij/com.list.arraylist/com.list.arraylist.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/lambda/lambda.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/lambda/src/LambdaFunctions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/linkedlist/linkedlist.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/linkedlist/src/LinkedListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/map/map.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/map/src/MapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/out/production/collections/ArrayListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/out/production/linkedlist/LinkedListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../collections/src/ArrayListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customer/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customer/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customer/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customer/customer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customer/customerdata/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambda_intellij/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda_intellij/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +21,7 @@
     <option name="width" value="1612" />
     <option name="height" value="971" />
   </component>
+  <component name="ProjectId" id="21bjlTsoAkgr5teFxk4qF3u8Yal" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -75,25 +33,20 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../lambda_intellij" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
